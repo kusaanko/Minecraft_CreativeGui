@@ -128,3 +128,11 @@ IDは数字のIDで設定。
 TabID is the ID of the tab, starting at the top left of the first page, number 0, moving one to the right, number 1... When you get to the rightmost one, move down to the left, number 5... and so on. and so on. Vanilla tabs are numbered from 0 to 9, and other IDs can be specified, but do not use them as they will change depending on the amount of mods.
 
 TabIDはタブのIDで、1ページ目の左上から0番、右に一つ移動して1番...一番右に来たら左下へ移動して5番...と続く。バニラのタブは0～9番まであり、それ以外のIDも指定できるがMODの量によって変わってしまうので使わないように。  
+
+# Screenshots - スクリーンショット
+![Screenshot2](screenshots/ss2.png)  
+![Screenshot3](screenshots/ss3.png)  
+![Screenshot4](screenshots/ss4.png)  
+![Screenshot5](screenshots/ss5.png)  
+![Screenshot6](screenshots/ss6.png)  
+![Screenshot7](screenshots/ss7.png)  
