@@ -136,3 +136,10 @@ TabIDはタブのIDで、1ページ目の左上から0番、右に一つ移動�
 ![Screenshot5](screenshots/ss5.png)  
 ![Screenshot6](screenshots/ss6.png)  
 ![Screenshot7](screenshots/ss7.png)  
+
+# How works detecting mod?
+Minecraft API(MCAPI) modify Minecraft Forge's logging system.  
+If the mod is initializing, MCAPI logs "Initializing (Mod name)".  
+If the mod is post-initializing, MCAPI logs "Post-Initializing (Mod name)".  
+Then record the changes in items between these logs.  
+This difference will be the item added by the mod.  
